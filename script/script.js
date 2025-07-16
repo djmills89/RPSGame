@@ -1,5 +1,5 @@
 let userChoice = ''
-let gameArea = document.querySelector('main')
+let gameArea = document.querySelector('section')
 const userOptions = gameArea.querySelectorAll('button')
 
 const rules = {
