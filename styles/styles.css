@@ -48,7 +48,7 @@ section, footer {
     margin-inline: auto;
 }
 
-section > div {
+.game-area-waiting > div {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -120,7 +120,7 @@ button > img {
     border-radius: .5rem;
 }
 
-.game-area {
+.game-area-waiting {
     position: relative;
     background-image: url('../images/bg-pentagon.svg');
     background-repeat: no-repeat;
